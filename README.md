@@ -1,6 +1,6 @@
 # Luu Aung | Electrical Project Portfolio Website
 
-A responsive, static multi-page portfolio for GitHub Pages. It includes Home, Projects, Profile, and Contact pages, contextual electrical infrastructure visuals, accessible project detail dialogs, mobile navigation, and subtle page/scroll transitions.
+A responsive, static multi-page portfolio for GitHub Pages. It includes Home, Projects, Profile, Contact, and CV access, contextual electrical infrastructure visuals, accessible project detail dialogs, mobile navigation, and subtle page/scroll transitions.
 
 ## Publish or update with GitHub Pages
 
@@ -13,7 +13,7 @@ A responsive, static multi-page portfolio for GitHub Pages. It includes Home, Pr
 ## Included pages
 
 - `index.html` — professional introduction, photo, strengths, contact links, and experience metrics
-- `projects.html` — four featured CV/resume case studies, interactive detail dialogs, and additional project experience
+- `projects.html` — four featured electrical infrastructure case studies, interactive detail dialogs, and additional project experience
 - `profile.html` — professional summary, skills, tools, project management strengths, and credentials
 - `contact.html` — email, phone, LinkedIn, location, nationality, and availability
 
